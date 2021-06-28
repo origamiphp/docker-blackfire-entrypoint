@@ -1,0 +1,1 @@
+# docker-blackfire-entrypoint
